@@ -1,0 +1,19 @@
+{
+  "name": "k/auth",
+  "description": "username password + standard auth",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "K",
+      "email": "kapv89@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+  },
+  "autoload": {
+    "psr-0": {
+      "k": "src"
+    }
+  }
+}
