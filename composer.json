@@ -10,6 +10,7 @@
   ],
   "minimum-stability": "dev",
   "require": {
+    "guzzle/http": "3.7.*@dev"
   },
   "autoload": {
     "psr-0": {
